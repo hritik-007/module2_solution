@@ -5,6 +5,7 @@
 
 body {
     background-color: #f2f2f2;
+    font-style: Bahnschrift;
 }
 
 h1 {
@@ -16,6 +17,7 @@ h1 {
 section {
     border: 1px solid black;
     background-color: #9c9c9c;
+    font-style: Bahnschrift;
     margin: 10px;
 }
 
@@ -35,15 +37,18 @@ section>h2 {
 
 section.chicken>h2 {
     background-color: #d49c9c;
+    font-style: Bahnschrift;
 }
 
 section.beef>h2 {
     color: #ffffff;
+    font-style: Bahnschrift;
     background-color: #c44444;
 }
 
 section.sushi>h2 {
     background-color: #e4d49c;
+    font-style: Bahnschrift;
 }
 
 section>p {
